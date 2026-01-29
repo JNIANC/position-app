@@ -143,7 +143,6 @@ A：每日使用核心功能、完成引导任务或参与内测反馈均可获�
 
 | 平台 | 图标 | 加入方式 | 说明 |
 | :--- | :--- | :--- | :--- |
-| **微信** | <img src="https://simpleicons.org/icons/wechat.svg" width="20" /> | ![微信交流群](https://github.com/user-attachments/assets/9e897d77-cdd7-4d20-b10c-467bb4e43348) <br> **扫码添加（备注：逍遥游）** | 最活跃的**核心用户群**，反馈问题最及时，内测更新优先通知。 |
 | **QQ** | <img src="https://simpleicons.org/icons/tencentqq.svg" width="20" /> | ![QQ交流群](https://github.com/user-attachments/assets/c62e0c82-a50b-4f8d-a103-c44580d8934b) <br> **扫码加入（群号已包含）** | **资源分享大本营**，群文件内有历史版本、教程文档等丰富资源。社区Q群号: 868394597 |
 | **Discord** | <img src="https://simpleicons.org/icons/discord.svg" width="20" /> | [点击链接加入频道](https://discord.gg/CtTXK3Avu) | **国际用户 & 技术讨论**，适合与开发者进行深入的功能探讨。 https://discord.gg/CtTXK3Avu |
 | **Telegram** | <img src="https://simpleicons.org/icons/telegram.svg" width="20" /> | [点击链接加入群组](https://t.me/+9rNGusxGKEYzMGQ1) | **信息发布与轻交流**，用于同步公告、更新日志和碎片化讨论。 https://t.me/+9rNGusxGKEYzMGQ1|
